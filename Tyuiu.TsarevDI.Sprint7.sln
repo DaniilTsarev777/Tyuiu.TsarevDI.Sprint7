@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Project", "Project", "{A54F9EBC-0B8E-4070-BDC0-A1194EF7B7DD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tyuiu.TsarevDI.Sprint7.Project.V4", "Tyuiu.TsarevDI.Sprint7.Project.V4\Tyuiu.TsarevDI.Sprint7.Project.V4.csproj", "{4E4C6D7F-B029-4F69-A7E7-B857D132B053}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tyuiu.TsarevDI.Sprint7.Project.V4.Lib", "Tyuiu.TsarevDI.Sprint7.Project.V4.Lib\Tyuiu.TsarevDI.Sprint7.Project.V4.Lib.csproj", "{77299D12-6FAA-48BB-A562-9E90E0D3EC4E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tyuiu.TsarevDI.Sprint7.Project.V4.Test", "Tyuiu.TsarevDI.Sprint7.Project.V4.Test\Tyuiu.TsarevDI.Sprint7.Project.V4.Test.csproj", "{FC3F1BDE-3E16-4C82-917A-9BE1EEC7BE43}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsAppChart", "C:\Users\Даниил\Desktop\WinFormsAppChart\WinFormsAppChart\WinFormsAppChart.csproj", "{97E1E330-C78D-4616-B436-7DD55C8848A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E4C6D7F-B029-4F69-A7E7-B857D132B053}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E4C6D7F-B029-4F69-A7E7-B857D132B053}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E4C6D7F-B029-4F69-A7E7-B857D132B053}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E4C6D7F-B029-4F69-A7E7-B857D132B053}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77299D12-6FAA-48BB-A562-9E90E0D3EC4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77299D12-6FAA-48BB-A562-9E90E0D3EC4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77299D12-6FAA-48BB-A562-9E90E0D3EC4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77299D12-6FAA-48BB-A562-9E90E0D3EC4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC3F1BDE-3E16-4C82-917A-9BE1EEC7BE43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC3F1BDE-3E16-4C82-917A-9BE1EEC7BE43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC3F1BDE-3E16-4C82-917A-9BE1EEC7BE43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC3F1BDE-3E16-4C82-917A-9BE1EEC7BE43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97E1E330-C78D-4616-B436-7DD55C8848A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97E1E330-C78D-4616-B436-7DD55C8848A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97E1E330-C78D-4616-B436-7DD55C8848A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97E1E330-C78D-4616-B436-7DD55C8848A8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{4E4C6D7F-B029-4F69-A7E7-B857D132B053} = {A54F9EBC-0B8E-4070-BDC0-A1194EF7B7DD}
+		{77299D12-6FAA-48BB-A562-9E90E0D3EC4E} = {A54F9EBC-0B8E-4070-BDC0-A1194EF7B7DD}
+		{FC3F1BDE-3E16-4C82-917A-9BE1EEC7BE43} = {A54F9EBC-0B8E-4070-BDC0-A1194EF7B7DD}
+		{97E1E330-C78D-4616-B436-7DD55C8848A8} = {A54F9EBC-0B8E-4070-BDC0-A1194EF7B7DD}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {45611B5A-471E-44D0-B5BA-ED31BFFD9039}
+	EndGlobalSection
+EndGlobal
